@@ -4,17 +4,17 @@
     "access-log-file": null,
     "retries": 5,
     "retry-pause": 5,
-    "donate-level": 2,
+    "donate-level": 1,
     "coin": "xmr",
-    "custom-diff": 0,
+    "custom-diff": 2000,
     "syslog": false,
     "verbose": false,
     "colors": true,
     "workers": true,
     "pools": [
         {
-            "url": "pool.minemonero.pro:5555",
-            "user": "",
+            "url": "etn.riefly.id:2222",
+            "user": "etnk5rqfiF7MPXtSGiWMZsLxRgNKVUFy2Qb8Qi5QG9j7667W9rwd4E9fZkJpyndYqS7XGrmU4GP9TSyVc3XZZVJJ85y3CsUYxW+2000",
             "pass": "x"
         }
     ],
